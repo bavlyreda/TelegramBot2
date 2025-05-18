@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 app = Flask(__name__)
 
 # Configuration
-BOT_TOKEN = "7640023244:AAGuggNq8T6xD6kjb837pldRXh-ikG2HUro"
+BOT_TOKEN = "7674168888:AAHhH7gLA-kmmeugS4IlvLBh0lFinanPFTY"
 CHANNEL_USERNAME = "@vlyftblcourseteasers"
 FILE_LINK = "https://mega.nz/file/uREGhLaQ#ThbiQhpltsPQ5CR7bhFpT2kuqLt6Hu8a4Mb0VkTUHkg"
 
